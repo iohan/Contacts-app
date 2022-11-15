@@ -7,7 +7,7 @@ A small CRUD-project to enhance my skills in [Next.js](https://nextjs.org/), [Ta
 First, install dependencies
 
 ```bash
-# In the project root, run:
+# At the project root, run:
 npm install
 ```
 
